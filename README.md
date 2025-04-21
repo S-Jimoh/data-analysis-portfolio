@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! Below are the projects I’ve worked on, along with links to their repositories:
+Welcome to my data analysis portfolio! 
 
 # About Me
 
@@ -11,6 +11,9 @@ Welcome to my data analysis portfolio! Below are the projects I’ve worked on, 
 - 🤝 Open to collaborating on data projects to improve and grow
 - 📫 Reach me at: [sekinateniola.jimoh@gmail.com](mailto:sekinateniola.jimoh@gmail,com)
 - 😄 Pronouns: she/her
+
+ ### Below are the projects I’ve worked on, along with links to their repositories
+ 
 ## Projects
 
 1. **EXCEL DATA CLEANING**  
@@ -22,4 +25,4 @@ Welcome to my data analysis portfolio! Below are the projects I’ve worked on, 
 4. **POWER BI DASHBOARD**  
    [View Repository](https://github.com/S-Jimoh/powerbi-healthcare-dashboard)
 
-Feel free to explore these projects and let me know if you have any feedback!
+Please feel free to explore these projects and let me know if you have any feedback!
